@@ -8,7 +8,7 @@ export default function Home() {
         title="Home"
         description="Home"
       />
-      <h1 className="title">Homepage</h1>
+      <h1 className="title">Home</h1>
       
     </div>
   )

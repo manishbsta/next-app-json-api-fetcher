@@ -1,0 +1,25 @@
+.followersContainer {
+	margin: 0 12rem;
+}
+
+.follower {
+	margin-top: 1rem;
+	padding: 0.6rem 2rem;
+	background-color: white;
+	border-left: 0.7rem solid white;
+	box-shadow: 0.1rem 0.1rem #aca8a834;
+}
+
+.follower:hover {
+	border-left: 0.7rem solid rgb(121, 52, 185);
+	color: blue;
+}
+
+.detailContainer {
+	margin-left: 20rem;
+}
+
+.detailContainer p span {
+	font-weight: bold;
+	margin-right: 1rem;
+}

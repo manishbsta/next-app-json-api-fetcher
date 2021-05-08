@@ -4,3 +4,9 @@
     align-items: center;
     justify-content: center;
 }
+
+.divider {
+    height: 0.6px;
+    margin: 0 7rem;
+    background-color: rgba(218, 209, 209, 0.527);
+}

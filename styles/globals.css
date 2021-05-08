@@ -16,6 +16,10 @@ a {
 	box-sizing: border-box;
 }
 
+.body-container{
+	min-height: 30rem;
+}
+
 .notFound {
 	text-align: center;
   padding: 6rem 0;
