@@ -18,7 +18,7 @@ const Navbar = () => {
 				<div>
 					<Link href="/"><a className={styles.navLinkItem}>Home</a></Link>
 					<Link href="/about"><a className={styles.navLinkItem}>About</a></Link>
-					<Link href="/subscribers"><a className={styles.navLinkItem}>Subscribers</a></Link>
+					<Link href="/followers"><a className={styles.navLinkItem}>Followers</a></Link>
 				</div>
 			</div>
 			<div className={styles.divider} />
