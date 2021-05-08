@@ -31,7 +31,6 @@ export const getStaticProps = async (context) => {
 }
 
 const FollowerDetails = ({ follower }) => {
-  console.log("follower", follower)
   return (
     <div>
       <h1 className="title">{follower.name}</h1>
